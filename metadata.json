@@ -1,0 +1,9 @@
+{
+  "name": "Inspectra AI - Smart Inspection & Monitoring Platform",
+  "description": "Smart real-time monitoring and inspection platform with GPS verification, cryptographic SHA-256 evidence hashing, random assignment, and automated corrective action workflows for SIH26095.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
